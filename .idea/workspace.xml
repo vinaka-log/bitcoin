@@ -34,7 +34,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Go Build.go build lesson8.go">
+  <component name="RunManager" selected="Go Build.go build lesson9.go">
     <configuration name="go build lesson2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
@@ -48,6 +48,14 @@
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/lesson8.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build lesson9.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/lesson9.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -73,9 +81,11 @@
       <item itemvalue="Go Build.go build lesson.go" />
       <item itemvalue="Go Build.go build lesson2.go" />
       <item itemvalue="Go Build.go build lesson8.go" />
+      <item itemvalue="Go Build.go build lesson9.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build lesson9.go" />
         <item itemvalue="Go Build.go build lesson8.go" />
         <item itemvalue="Go Build.go build lesson2.go" />
         <item itemvalue="Go Build.go build lesson.go" />
@@ -91,22 +101,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1597304233459" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1597385966246">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1597386590456">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597385966246" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1597385966244">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597386590456" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1597386590454">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597385966244" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1597385966242">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597386590454" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1597386590453">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597385966242" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1597385966245">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597386590453" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1597386590455">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597385966245" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597386590455" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1597304968968">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
