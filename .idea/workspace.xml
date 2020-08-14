@@ -26,9 +26,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Go Build.go build lesson.go">
+  <component name="RunManager" selected="Go Build.go build lesson2.go">
+    <configuration name="go build lesson2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/lesson2.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build lesson.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
@@ -49,9 +63,11 @@
     <list>
       <item itemvalue="Go Build.go" />
       <item itemvalue="Go Build.go build lesson.go" />
+      <item itemvalue="Go Build.go build lesson2.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build lesson2.go" />
         <item itemvalue="Go Build.go build lesson.go" />
       </list>
     </recent_temporary>
@@ -65,22 +81,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1597304233459" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1597304805569">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1597384255948">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597304805569" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1597304805566">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597384255948" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1597384255945">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597304805566" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1597304805564">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597384255945" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1597384255944">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597304805564" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1597304805567">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597384255944" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1597384255947">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597304805567" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597384255947" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1597304968968">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
